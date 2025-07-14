@@ -107,7 +107,7 @@ Sigue estos pasos para poner en marcha la aplicación en tu entorno local:
 1. Clonar el Repositorio (si aplica)
 Si este proyecto está en un repositorio de Git, clónalo:
 
-git clone [URL_DEL_REPOSITORIO]
+git clone [(https://github.com/Abrahan1194/Eventos.js.git)]
 cd event-management-spa
 
 2. Inicializar el Proyecto Node.js
